@@ -1,3 +1,4 @@
+# Latihan konversi suhu
 def c_ke_f(c):
     return c * 9 / 5 + 32
 
