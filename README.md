@@ -9,9 +9,10 @@ Dibuat oleh Sharon, mahasiswa Teknik Telekomunikasi.
 ## Isi repo
 
 | Folder | Isi |
-|--------|-----|
-| `python/` | Latihan Python: dasar, fungsi, file, NumPy, Matplotlib |
-| `c/` | Latihan C: tipe data, array, pointer, struct |
+|---|---|
+| `python/` | Latihan Python Sesi 1-7, plus simulasi ADC (Sesi 14-16) |
+| `c/` | Latihan C Sesi 8-11 |
+| `linux/` | Skrip bash dari latihan terminal Linux |
 
 ## Cara menjalankan
 
@@ -32,6 +33,8 @@ gcc -Wall c/sesi8_1.c -o sesi8_1.out -lm
 
 - [x] Python dasar
 - [x] C dasar
+- [x] Linux command line
+- [x] Elektronika dan ADC (Sesi 14-16)
 - [ ] Machine learning
 - [ ] ESP32 dan MQTT
 - [ ] TinyML
