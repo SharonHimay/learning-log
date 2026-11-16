@@ -6,6 +6,8 @@ Catatan latihan belajar AIoT: kode Python (Sesi 1-7) dan C (Sesi 8-11).
 Latihan dan catatan perjalanan belajar AIoT (Python, C, dan seterusnya).
 Dibuat oleh Sharon, mahasiswa Teknik Telekomunikasi.
 
+Daftar soal dan jawaban: [LATIHAN.md](LATIHAN.md)
+
 ## Isi repo
 
 | Folder | Isi |
